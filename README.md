@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dingye888
-- 👀 I’m interested in topics related but not limited to; computer graphics, machine learning, and gaming.
-- 🌱 I’m currently learning Linux and Bash. 
+- 👀 I’m interested in topics related but not limited to; computer graphics, machine learning/deep learning, and gaming.
+- 🌱 I’m currently learning Linux and Bash, also interested in learning Deepfakes and Nvidia DLSL. 
 - 💞️ I’m looking to collaborate on any graphics or gaming projects.
 - 📫 How to reach me : Email 12036dw@gmail.com
 
